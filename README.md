@@ -13,8 +13,8 @@ This repository contains the capstone project for my Master's degree in Cybersec
   **Presentations**: Contains presentation slides.
     [Capstone Presentation](Presentations/CYBR_7910_Capstone_Presentation.pptx)
   **Gantt Charts**: Contains project Gantt charts
-    [Gantt Chart Phase 1](GantCharts/GanttChartPhase1.xlsx)
-    [Gantt Chart Phase 2](GantCharts/GanttChartPhase2.xlsx)
+    [Gantt Chart Phase 1](GanttCharts/GanttChartPhase1.xlsx)
+    [Gantt Chart Phase 2](GanttCharts/GanttChartPhase2.xlsx)
 
 ## YouTube Presentation
 [Watch the project presentation on YouTube](https://www.youtube.com/watch?v=upkIcabdPdo)
