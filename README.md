@@ -6,7 +6,7 @@ This repository contains the capstone project for my Master's degree in Cybersec
 ## Project Structure
   **Documentation**: Contains project documents and reports
     [2nd Phase Final Report](Documentation/2nd_Phase_final_version.pdf)
-    [CyberGuardian Project Plan](Documentation/Project_Plan_Group_4.docx)
+    [CyberGuardian Project Plan](Documentation/CyberGuardian_Project_Plan.docx)
     [Project Phase 1 Report](Documentation/CyberGuardian_Solutions_-_Phase_1_Project_Report.docx)
     [Project Plan Group 4 Final](Documentation/Project_Plan_Group_4_Final.docx)
     [Vulnerability Assessment/Penetration Test Report](Documentation/VA-PT_Report.docx)
